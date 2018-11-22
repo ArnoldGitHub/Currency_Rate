@@ -1,8 +1,8 @@
 # Currency Rate History
-This project demostrate how Zappa solves the most common challenges in modern web applications.
+This project demostrate how superheroic Python modules [Zappa](https://github.com/Miserlou/Zappa) solves the common challenges in modern web applications.
 
-1. Async tasks
-2. Periodic background task
+- Async tasks
+- Periodic background task
 
 ## Prerequisite
 If you're deploying a Django application with Zappa for the first time, you might want to read Edgar Roman's [Django Zappa Guide](https://edgarroman.github.io/zappa-django-guide/).
